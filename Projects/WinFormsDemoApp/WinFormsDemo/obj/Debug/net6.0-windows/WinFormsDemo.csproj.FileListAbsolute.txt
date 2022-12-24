@@ -1,0 +1,17 @@
+C:\Users\PHerd\Desktop\Dev\100DaysOfCode\Projects\WinFormsDemoApp\WinFormsDemo\bin\Debug\net6.0-windows\WinFormsDemo.exe
+C:\Users\PHerd\Desktop\Dev\100DaysOfCode\Projects\WinFormsDemoApp\WinFormsDemo\bin\Debug\net6.0-windows\WinFormsDemo.deps.json
+C:\Users\PHerd\Desktop\Dev\100DaysOfCode\Projects\WinFormsDemoApp\WinFormsDemo\bin\Debug\net6.0-windows\WinFormsDemo.runtimeconfig.json
+C:\Users\PHerd\Desktop\Dev\100DaysOfCode\Projects\WinFormsDemoApp\WinFormsDemo\bin\Debug\net6.0-windows\WinFormsDemo.dll
+C:\Users\PHerd\Desktop\Dev\100DaysOfCode\Projects\WinFormsDemoApp\WinFormsDemo\bin\Debug\net6.0-windows\WinFormsDemo.pdb
+C:\Users\PHerd\Desktop\Dev\100DaysOfCode\Projects\WinFormsDemoApp\WinFormsDemo\obj\Debug\net6.0-windows\WinFormsDemo.csproj.AssemblyReference.cache
+C:\Users\PHerd\Desktop\Dev\100DaysOfCode\Projects\WinFormsDemoApp\WinFormsDemo\obj\Debug\net6.0-windows\WinFormsDemo.Form1.resources
+C:\Users\PHerd\Desktop\Dev\100DaysOfCode\Projects\WinFormsDemoApp\WinFormsDemo\obj\Debug\net6.0-windows\WinFormsDemo.csproj.GenerateResource.cache
+C:\Users\PHerd\Desktop\Dev\100DaysOfCode\Projects\WinFormsDemoApp\WinFormsDemo\obj\Debug\net6.0-windows\WinFormsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHerd\Desktop\Dev\100DaysOfCode\Projects\WinFormsDemoApp\WinFormsDemo\obj\Debug\net6.0-windows\WinFormsDemo.AssemblyInfoInputs.cache
+C:\Users\PHerd\Desktop\Dev\100DaysOfCode\Projects\WinFormsDemoApp\WinFormsDemo\obj\Debug\net6.0-windows\WinFormsDemo.AssemblyInfo.cs
+C:\Users\PHerd\Desktop\Dev\100DaysOfCode\Projects\WinFormsDemoApp\WinFormsDemo\obj\Debug\net6.0-windows\WinFormsDemo.csproj.CoreCompileInputs.cache
+C:\Users\PHerd\Desktop\Dev\100DaysOfCode\Projects\WinFormsDemoApp\WinFormsDemo\obj\Debug\net6.0-windows\WinFormsDemo.dll
+C:\Users\PHerd\Desktop\Dev\100DaysOfCode\Projects\WinFormsDemoApp\WinFormsDemo\obj\Debug\net6.0-windows\refint\WinFormsDemo.dll
+C:\Users\PHerd\Desktop\Dev\100DaysOfCode\Projects\WinFormsDemoApp\WinFormsDemo\obj\Debug\net6.0-windows\WinFormsDemo.pdb
+C:\Users\PHerd\Desktop\Dev\100DaysOfCode\Projects\WinFormsDemoApp\WinFormsDemo\obj\Debug\net6.0-windows\WinFormsDemo.genruntimeconfig.cache
+C:\Users\PHerd\Desktop\Dev\100DaysOfCode\Projects\WinFormsDemoApp\WinFormsDemo\obj\Debug\net6.0-windows\ref\WinFormsDemo.dll
